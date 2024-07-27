@@ -1,17 +1,6 @@
-# pixel_connect
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Pixel-Connect
+Conceptualized, designed, and developed a dynamic and user-centric community app using Flutter. This application offers a compact yet engaging platform for users to post and share video game reviews, including videos, images, and text-based content.
+Key Features:
+-Implemented user-generated content features using Firebase Firestore, Firebase Storage, and Firebase Authentication for seamless content creation and management. 
+- Utilized Flutter's plugins, such as image_picker and video_player, to enable users to upload and share images and videos as part of their reviews. Integrated media streaming and playback for a seamless user experience.
+-Developed a threaded commenting system using the Flutter Bloc pattern, allowing users to engage in conversations, provide feedback, and exchange opinions about specific game titles. 
+-Implemented search and discovery functionalities using Flutter packages like flutter_search_bar and flutter_staggered_grid_view, allowing users to explore reviews by game title, genre, or user-generated tags.
